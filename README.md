@@ -28,7 +28,7 @@ I’m Laytong Ly, an aspiring AI & backend engineer passionate about building sc
 
 ### 📫 How to Reach Me
 - **Email:** laytongly@gmail.com
-- **LinkedIn:** [Laytong Ly](https://www.linkedin.com/in/laytongly)
+- **LinkedIn:** [Laytong Ly](https:/www.linkedin.com/in/laytong-ly-7178b72a2)
 - **GitHub:** [@laytonglee](https://github.com/laytonglee)
 
 ### ⚡ Fun Fact
