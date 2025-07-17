@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**laytonglee/laytonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Laytong Ly, an aspiring AI & backend engineer passionate about building scalable solutions that make a real-world impact.
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Developing **billing systems** and **invoicing automation** with Laravel & JavaScript.
+- Enhancing my skills in **AWS Cloud**, **Docker**, and **MLOps** for production-ready AI deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- **Time Series Forecasting** with PyTorch and real business datasets.
+- **Advanced DevOps** practices to optimize deployment pipelines.
+- **Cybersecurity fundamentals** to build secure applications.
+
+### 💡 Goals
+- Build impactful AI solutions for critical sectors.
+- Contribute to open-source projects in backend, DevOps, and AI.
+- Support students and developers through sharing clear, concise resources.
+
+### 👯 Looking to Collaborate On
+- AI projects (especially forecasting, NLP, or optimization)
+- Backend systems with Laravel, Node.js, or Python
+- Cloud-native application deployment and optimization
+
+### 💬 Ask Me About
+- Laravel, PHP, JavaScript, and full-stack web development
+- Building billing systems and workflow automation
+- Cloud infrastructure (AWS Certified) and Docker
+
+### 📫 How to Reach Me
+- **Email:** laytongly@gmail.com
+- **LinkedIn:** [Laytong Ly](https://www.linkedin.com/in/laytongly)
+- **GitHub:** [@laytonglee](https://github.com/laytonglee)
+
+### ⚡ Fun Fact
+I love solving system bottlenecks at 2AM while enjoying iced coffee ☕ – there’s something magical about late-night debugging!
+
+---
+
+Thanks for visiting my profile. Let’s connect, build, and innovate together!
